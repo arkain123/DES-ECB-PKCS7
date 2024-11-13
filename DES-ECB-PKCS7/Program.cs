@@ -1,7 +1,4 @@
-﻿using System;
-using System.Security.Cryptography;
-using System.Text;
-using DES_ECB_PKCS7;
+﻿using DES_ECB_PKCS7;
 
 namespace DESECBPKCS7
 {
